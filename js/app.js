@@ -12,6 +12,8 @@ var ViewModel = function() {
     }
   }, this);
 
+  this.catNickNames = ['Furry', 'Puffy', 'Meowwy'];
+
   this.increamentCounter = function() {
     this.clickCount(this.clickCount() + 1);
   }
