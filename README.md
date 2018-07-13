@@ -14,6 +14,14 @@ This app is simply a list of cats with their individual names, nicknames and cli
 - Click on the cat to increase the click-count.
 - Then according to the number of click-counts the cats will be given titles.
 
+## How to Run
+
+- Fork or Download the project and open the `index.html` in your browser.
+
+--OR--
+
+[Click Here](https://codecrook.github.io/CatClicker/) - To see a live demo.
+
 ## Dependancy
 
 This app needs **[Knockout JS](http://knockoutjs.com/)** to function.
