@@ -20,7 +20,7 @@ This app is simply a list of cats with their individual names, nicknames and cli
 
 --OR--
 
-[Click Here](https://codecrook.github.io/CatClicker/) - To see a live demo.
+- [Click Here](https://codecrook.github.io/CatClicker/) - To see a live demo.
 
 ## Dependancy
 
